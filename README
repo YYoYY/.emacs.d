@@ -1,0 +1,4 @@
+1. Copy this directory a.k.a .emacs.d to your home ~
+2. If ~/.emacs does not exist then create it
+3. Append the following line to ~/.emacs
+   (load "~/.emacs.d/loader.el")
